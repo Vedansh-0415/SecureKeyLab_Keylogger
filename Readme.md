@@ -104,4 +104,4 @@ Vedansh Verma
 
 ## License
 
-Add a license only after choosing and verifying the terms under which this project will be distributed.
+This project is licensed under the MIT License.
