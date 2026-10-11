@@ -21,7 +21,7 @@ SecureKeyLab is an educational project built with Python and Tkinter. It demonst
 - Python
 - Tkinter
 - JSON and JSONL
-- `unittest`
+- unittest
 - Git and GitHub
 
 ## Getting Started
